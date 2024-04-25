@@ -1,0 +1,32 @@
+
+body
+{
+    background-color:rgb(128, 126, 126) (104, 255, 104, 0.849);
+}
+main
+{
+    margin: auto;
+   text-align: center;
+   font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+.VideoTexto
+{
+    display: flex;
+    justify-content: center;
+   
+}
+
+.texto
+{
+  
+    width: 400px;
+    text-align: center;
+
+}
+h1
+{
+    border-radius: 5px solid rgba(0, 0, 0, 0.884);
+    color: #fff;
+    background-color: black;
+}
